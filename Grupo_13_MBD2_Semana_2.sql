@@ -3,7 +3,7 @@
   Creando consultas utilizando funciones SQL
   Esquema: PRY2205_S2
   Ejecutar DESPUES de crear y poblar las tablas con los scripts oficiales.
-  Autor: [Completar nombre y apellido]
+  Autor: [Nicolás Núñez, Constanza Parra ]
 */
 
 -- ================================================================
